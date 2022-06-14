@@ -7,8 +7,12 @@
 </div>
 
 ###
-<img href="https://github.com/silvaalanchristian/silvaalanchristian/blob/output/snake.svg" alt="Snake animation" />
+###
+<div align="center">
+  <img src="https://github.com/silvaalanchristian/silvaalanchristian/blob/output/github-contribution-grid-snake.gif"/>
+</div>
 
+###
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
